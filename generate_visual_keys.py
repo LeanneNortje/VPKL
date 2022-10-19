@@ -23,8 +23,6 @@ from pathlib import Path
 import matplotlib.pyplot as plt
 from PIL import Image
 from torchvision import transforms
-import apex
-from apex import amp
 import time
 import json
 import hashlib
