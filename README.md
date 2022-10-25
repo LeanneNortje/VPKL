@@ -25,7 +25,7 @@ cd VKPL/
 
 **Flickr**
 
-Download the [images](https://www.kaggle.com/datasets/adityajn105/flickr8k) and corresponding [audio](https://groups.csail.mit.edu/sls/downloads/flickraudio/downloads.cgi) separatly and extract both in the same folder. 
+Download the [images](https://www.kaggle.com/datasets/adityajn105/flickr8k) and corresponding [audio](https://groups.csail.mit.edu/sls/downloads/flickraudio/downloads.cgi) separately and extract both in the same folder. 
 
 ## Re-generating Task
 
